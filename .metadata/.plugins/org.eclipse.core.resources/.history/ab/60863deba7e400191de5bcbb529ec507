@@ -1,0 +1,6 @@
+spring.h2.console.enabled=true
+spring.h2.console.path=/console
+spring.jpa.hibernate.ddl-auto=create
+spring.datasource.url=jdbc:postgresql://localhost:5432/dream_db/
+spring.datasource.data-username=postgres
+spring.datasource.data-password=password

@@ -1,0 +1,11 @@
+package com.mw.DreamLogAPI.service;
+
+import org.springframework.stereotype.Repository;
+
+import com.mw.DreamLogAPI.model.Dream;
+
+@Repository
+public interface DreamServiceInterface {
+
+	
+}

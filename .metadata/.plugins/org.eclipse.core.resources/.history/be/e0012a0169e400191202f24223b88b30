@@ -1,0 +1,8 @@
+package com.mw.DreamLogAPI.service;
+
+import com.mw.DreamLogAPI.model.Dream;
+
+public interface DreamServiceInterface {
+
+	
+}

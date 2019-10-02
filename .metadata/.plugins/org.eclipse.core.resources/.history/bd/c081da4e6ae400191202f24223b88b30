@@ -1,0 +1,15 @@
+package com.mw.DreamLogAPI.repository;
+
+import java.util.ArrayList;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.mw.DreamLogAPI.model.Dream;
+
+public interface DreamRepository extends CrudRepository {
+
+	public Dream findDreamById(Long id);
+
+	
+
+}

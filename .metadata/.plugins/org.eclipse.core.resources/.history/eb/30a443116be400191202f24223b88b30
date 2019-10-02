@@ -1,0 +1,28 @@
+package com.mw.DreamLogAPI.service;
+
+import java.util.ArrayList;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.mw.DreamLogAPI.model.Dream;
+import com.mw.DreamLogAPI.repository.DreamRepository;
+
+@Service
+public class DreamServiceImpl implements DreamServiceInterface {
+	
+	@Autowired
+	DreamRepository dreamRepository;
+
+	
+	@Override
+	public Dream getDreamUsingId(Long id) {
+	
+		return dreamRepository.findDreamById(id);
+	}
+
+	
+	
+	
+	
+}

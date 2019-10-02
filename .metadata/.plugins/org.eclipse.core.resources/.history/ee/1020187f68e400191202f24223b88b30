@@ -1,0 +1,5 @@
+package com.mw.DreamLogAPI.service;
+
+public interface DreamServiceInterface {
+
+}
