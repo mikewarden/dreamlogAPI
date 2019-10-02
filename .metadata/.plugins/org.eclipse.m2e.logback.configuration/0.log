@@ -740,3 +740,96 @@
 2019-10-01 17:50:45,542 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-10-01 17:50:45,546 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-10-01 17:50:45,547 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:02:01,063 [Worker-44: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:02:01,064 [Worker-44: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 18:02:01,066 [Worker-44: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:02:01,074 [Worker-44: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:02:01,074 [Worker-44: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:26:19,852 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-01 18:38:53,239 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:38:53,257 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-10-01 18:38:53,293 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:38:53,297 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:38:53,332 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:40:37,532 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:40:37,535 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 18:40:37,536 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:40:37,539 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:40:37,539 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:41:59,785 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:41:59,786 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 18:41:59,787 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:41:59,790 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:41:59,790 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:42:51,345 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:42:51,345 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 18:42:51,346 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:42:51,349 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:42:51,350 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:43:58,992 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:43:58,993 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 18:43:58,994 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:43:58,997 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:43:58,997 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:48:31,900 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:48:31,901 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 18:48:31,902 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:48:31,910 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:48:31,911 [Worker-24: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:57:09,732 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:57:09,733 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 18:57:09,734 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:57:09,737 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:57:09,737 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 18:59:44,245 [Worker-32: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:59:44,245 [Worker-32: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 18:59:44,249 [Worker-32: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 18:59:44,265 [Worker-32: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 18:59:44,266 [Worker-32: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:00:45,712 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:00:45,713 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 19:00:45,714 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:00:45,717 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:00:45,717 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:10:34,562 [Worker-33: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:10:34,563 [Worker-33: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 19:10:34,565 [Worker-33: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:10:34,569 [Worker-33: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:10:34,570 [Worker-33: Launching DreamLogAPI - DreamLogApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:11:00,011 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:11:00,012 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 19:11:00,013 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:11:00,016 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:11:00,016 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:11:22,415 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:11:22,416 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 19:11:22,417 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:11:22,419 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:11:22,419 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:12:24,311 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:12:24,312 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 19:12:24,313 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:12:24,317 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:12:24,317 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:31:34,801 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-01 19:31:43,034 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:31:43,038 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-10-01 19:31:43,061 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:31:43,066 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:31:43,067 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:31:44,867 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:31:44,869 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:31:44,869 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:31:44,873 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:31:44,873 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:40:09,843 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-01 19:40:20,122 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:40:20,132 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-10-01 19:40:20,156 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:40:20,163 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:40:20,164 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
+2019-10-01 19:45:26,461 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:45:26,464 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-01 19:45:26,466 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-01 19:45:26,470 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-01 19:45:26,470 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pc2/Desktop/DreamMicroService/DreamLogAPI/src/test/resources
