@@ -82,7 +82,7 @@ public class DreamLogIntegrationTest {
 		mvc.perform(get("/dreams").contentType(MediaType.APPLICATION_JSON))
 		.andExpect(status().isOk())
 		.andExpect(content().contentTypeCompatibleWith(MediaType.APPLICATION_JSON))
-		.andExpect(jsonPath("$", hasSize(1)))
+		.andExpect(jsonPath("$", hasSize(6)))
 		.andExpect(jsonPath("$[0].title", is("testDream")));
 	}
 
