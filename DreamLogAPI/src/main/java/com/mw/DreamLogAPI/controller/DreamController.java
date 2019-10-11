@@ -23,73 +23,73 @@ public class DreamController {
 	@Autowired
 	private DreamServiceImpl dreamServiceImpl;
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@GetMapping("/")
 	public String index() {
 		return "<h1>Welcome to DreamLog</h1>";
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@GetMapping("/dream/{id}")
 	public Dream getDream(@PathVariable Long id) {
 		return dreamServiceImpl.getDreamUsingId(id);
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@GetMapping("/dreams")
 	public ArrayList<Dream> getAllDreams() {
 		return dreamServiceImpl.getAll();
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@PostMapping("/dream")
 	public void saveDream(@RequestBody Dream dream) {
 		 dreamServiceImpl.saveDream(dream);
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@DeleteMapping("/dreams")
 	public void deleteAllTheDreams() {
 		dreamServiceImpl.deleteAllDreams();
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@DeleteMapping("/dream/{id}")
 	public void deleteDream(@PathVariable Long id) {
 		dreamServiceImpl.deleteDreamUsingId(id);
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@PutMapping("/dream/{id}")
 	public void updateDream(@RequestBody @PathVariable Long id, Dream dream) {
 		dreamServiceImpl.updateDream(id, dream);
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@GetMapping("/dreams/islucid")
 	public ArrayList<Dream> getLucidDreams(@RequestParam Boolean isLucid) {
 		return dreamServiceImpl.filterLucidDreams(isLucid);
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@GetMapping("/dreams/isnightmare")
 	public ArrayList<Dream> getNightmareDreams(@RequestParam Boolean isNightmare) {
 		return dreamServiceImpl.filterNightmareDreams(isNightmare);
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@GetMapping("/dreams/isrecurring")
 	public ArrayList<Dream> getRecurringDreams(@RequestParam Boolean isRecurring) {
 		return dreamServiceImpl.filterRecurringDreams(isRecurring);
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@GetMapping("/dreams/isstrange")
 	public ArrayList<Dream> getStrangeDreams(@RequestParam Boolean isStrange) {
 		return dreamServiceImpl.filterStrangeDreams(isStrange);
 	}
 	
-	@CrossOrigin(origins= "http://localhost:3000")
+	@CrossOrigin(origins= "https://dreamlogfrontend.herokuapp.com/")
 	@GetMapping("/dreams/isvivid")
 	public ArrayList<Dream> getVividDreams(@RequestParam Boolean isVivid) {
 		return dreamServiceImpl.filterVividDreams(isVivid);
