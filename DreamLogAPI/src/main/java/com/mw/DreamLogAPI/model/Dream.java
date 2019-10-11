@@ -12,6 +12,7 @@ public class Dream {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 	
+	private String name;
 	private String title;
 	private String body;
 	private String date;
@@ -25,9 +26,10 @@ public class Dream {
 	public Dream() {};
 
 
-	public Dream(String title, String body, String date, Boolean isLucid, Boolean isNightmare,
+	public Dream(String name, String title, String body, String date, Boolean isLucid, Boolean isNightmare,
 			Boolean isRecurring, Boolean isStrange, Boolean isVivid) {
 		
+		this.name = name;
 		this.title = title;
 		this.body = body;
 		this.date = date;
@@ -46,6 +48,15 @@ public class Dream {
 
 	public void setId(Long id) {
 		this.id = id;
+	}
+	
+	public String getName() {
+		return name;
+	}
+
+
+	public void setName(String name) {
+		this.name = name;
 	}
 
 
@@ -135,6 +146,9 @@ public class Dream {
 				+ isNightmare + ", isRecurring=" + isRecurring + ", isStrange=" + isStrange + ", isVivid=" + isVivid
 				+ "]";
 	};
+
+
+	
 	
 	
 	

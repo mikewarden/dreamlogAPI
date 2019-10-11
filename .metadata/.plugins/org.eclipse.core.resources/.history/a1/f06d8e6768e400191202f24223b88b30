@@ -1,7 +1,0 @@
-package com.mw.DreamLogAPI.repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface DreamRepository extends CrudRepository {
-
-}

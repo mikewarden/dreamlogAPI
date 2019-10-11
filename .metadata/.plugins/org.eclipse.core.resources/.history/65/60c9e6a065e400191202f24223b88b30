@@ -1,5 +1,0 @@
-package com.mw.DreamLogAPI.repository;
-
-public interface DreamRepository {
-
-}

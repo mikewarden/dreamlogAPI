@@ -58,7 +58,7 @@ public class DreamLogIntegrationTest {
 	
 	@Before 
 	public void setUp() {
-		testDream = new Dream("testDream", "testing 123", "today", true, false,
+		testDream = new Dream("testUser", "testDream", "testing 123", "today", true, false,
 			false, false, false);
 		dreamRepository.save(testDream);
 	}

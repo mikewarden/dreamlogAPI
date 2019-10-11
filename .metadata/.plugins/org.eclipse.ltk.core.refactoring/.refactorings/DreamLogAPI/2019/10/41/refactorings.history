@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.mw.DreamLogAPI.model.Dream.name&apos; in &apos;com.mw.DreamLogAPI.model.Dream&apos;&#x0A;- Original project: &apos;DreamLogAPI&apos;&#x0A;- Original element: &apos;com.mw.DreamLogAPI.model.Dream.name&apos;&#x0A;- Getter method name: &apos;getName&apos;&#x0A;- Setter method name: &apos;setName&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;name&apos;" flags="589830" getter="getName" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java&lt;com.mw.DreamLogAPI.model{Dream.java[Dream^name" insertion="20" setter="setName" stamp="1570749618978" version="1.0" visibility="1"/>
+</session>
