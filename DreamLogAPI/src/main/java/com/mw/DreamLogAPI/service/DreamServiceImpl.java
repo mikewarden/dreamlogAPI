@@ -44,10 +44,10 @@ public class DreamServiceImpl implements DreamServiceInterface {
 	}
 	
 	@Override
-	public void updateDream(Long id, Dream dreamStatus) {
+	public void updateDreamUsingId(Dream dreamStatus, Long id) {
 		
 		Dream currentDream = dreamRepository.findDreamById(id);
-		
+		String name = dreamStatus.getName();
 		String title = dreamStatus.getTitle();
 		String body = dreamStatus.getBody();
 		String date = dreamStatus.getDate();
@@ -57,6 +57,7 @@ public class DreamServiceImpl implements DreamServiceInterface {
 		Boolean isStrange = dreamStatus.getIsStrange();
 		Boolean isVivid = dreamStatus.getIsVivid();
 		
+		currentDream.setName(name);
 		currentDream.setTitle(title);
 		currentDream.setBody(body);
 		currentDream.setDate(date);
@@ -94,6 +95,8 @@ public class DreamServiceImpl implements DreamServiceInterface {
 	public ArrayList<Dream> filterVividDreams(Boolean isVivid) {
 		return dreamRepository.findAllDreamsByIsVivid(isVivid);
 	}
+
+	
 
 	
 	

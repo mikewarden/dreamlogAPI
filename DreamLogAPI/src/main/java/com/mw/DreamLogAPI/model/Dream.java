@@ -21,13 +21,14 @@ public class Dream {
 	private Boolean isRecurring;
 	private Boolean isStrange;
 	private Boolean isVivid;
+	private Long rating;
 	
 	
 	public Dream() {};
 
 
 	public Dream(String name, String title, String body, String date, Boolean isLucid, Boolean isNightmare,
-			Boolean isRecurring, Boolean isStrange, Boolean isVivid) {
+			Boolean isRecurring, Boolean isStrange, Boolean isVivid, Long rating) {
 		
 		this.name = name;
 		this.title = title;
@@ -45,10 +46,6 @@ public class Dream {
 		return id;
 	}
 
-
-	public void setId(Long id) {
-		this.id = id;
-	}
 	
 	public String getName() {
 		return name;
@@ -138,14 +135,28 @@ public class Dream {
 	public void setIsVivid(Boolean isVivid) {
 		this.isVivid = isVivid;
 	}
+	
+	
+
+	public Long getRating() {
+		return rating;
+	}
+
+
+	public void setRating(Long rating) {
+		this.rating = rating;
+	}
 
 
 	@Override
 	public String toString() {
-		return "Dream [title=" + title + ", body=" + body + ", date=" + date + ", isLucid=" + isLucid + ", isNightmare="
-				+ isNightmare + ", isRecurring=" + isRecurring + ", isStrange=" + isStrange + ", isVivid=" + isVivid
-				+ "]";
-	};
+		return "Dream [id=" + id + ", name=" + name + ", title=" + title + ", body=" + body + ", date=" + date
+				+ ", isLucid=" + isLucid + ", isNightmare=" + isNightmare + ", isRecurring=" + isRecurring
+				+ ", isStrange=" + isStrange + ", isVivid=" + isVivid + ", rating=" + rating + "]";
+	}
+
+
+	
 
 
 	

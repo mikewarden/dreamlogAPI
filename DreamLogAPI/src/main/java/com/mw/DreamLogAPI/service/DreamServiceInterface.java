@@ -19,7 +19,7 @@ public interface DreamServiceInterface {
 
 	public void deleteDreamUsingId(Long id);
 
-	public void updateDream(Long id, Dream dream);
+//	public void updateDream(Long id, Dream dream);
 
 	public ArrayList<Dream> filterLucidDreams(Boolean isLucid);
 
@@ -30,6 +30,8 @@ public interface DreamServiceInterface {
 	public ArrayList<Dream> filterStrangeDreams(Boolean isStrange);
 
 	public ArrayList<Dream> filterVividDreams(Boolean isVivid);
+
+	void updateDreamUsingId(Dream dreamStatus, Long id);
 
 	
 
